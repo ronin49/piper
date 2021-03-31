@@ -1,0 +1,14 @@
+c crane
+t tube
+f fontain
+v doorv
+h doorh
+a left
+w up
+d right
+s down
+q quit
+p simulate
+e erase
+= increaseSpeed
+- decreaseSpeed
